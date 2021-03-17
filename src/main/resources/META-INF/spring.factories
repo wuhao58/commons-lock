@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.leo.commons.redis.config.LettuceAutoConfiguration,\
+  com.leo.commons.lock.config.LockConfiguration
